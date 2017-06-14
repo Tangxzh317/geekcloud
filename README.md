@@ -17,7 +17,7 @@
 
 首页
  
-![webterminal](https://github.com/ibuler/static/raw/master/jumpserver3/index.jpg)
+![Menu](https://github.com/StarWars-Team/geekcloud/blob/master/menu.jpg)
 
 WebTerminal:
 
